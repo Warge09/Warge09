@@ -1,10 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Charlie%20Wargent&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Game%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Charlie%20Wargent&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Game%20Programmer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Warge09">
     <img src="https://komarev.com/ghpvc/?username=Warge09&label=Profile%20views&color=00FFFF&style=flat-square" alt="Warge09's profile views" />
   </a>
 </p>
+
+## 📌 About Me
+- I'm a programmer specialising in C++ and C# game development. I frequently use the most popular game engines, such as Unreal Engine and Unity, but I have dived into frameworks like SDL3 for a University project. I enjoy collaborating with others in projects and creating gameplay systems such as player and enemy systems, which play important roles in dictating the player experiences in video games.
+- I'm always looking to collaborate on projects, feel free to reach out to me if you do!
+
+
+## 🧠 My Focus Areas
+- Game Programming specifically using C# and C++
+- Having a deep understanding of the tools I use, and programming languages required to use these tools.
+- Creating unique, fun, and enjoyable video games
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -13,12 +24,14 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=Warge09&theme=radical&hide_border=true&cache_seconds=86400" alt="Warge09's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Warge09&theme=radical&radius=10" alt="Warge09's Activity Graph" />
-</p>
 
 
 ## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/Warge09">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Warge09&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -37,3 +50,6 @@
 
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
