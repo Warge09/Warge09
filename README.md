@@ -17,7 +17,7 @@
 - Creating unique, fun, and enjoyable video games
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats 
 <p align="center">
   <a href="https://github.com/Warge09">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Warge09&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Warge09's GitHub Stats" />
