@@ -13,8 +13,9 @@
 
 ## 🧠 My Focus Areas
 - Game Programming specifically using C# and C++
-- Having a deep understanding of the tools I use, and programming languages required to use these tools.
+- Having a deep understanding of the tools I use, and programming languages required to use these tools
 - Creating unique, fun, and enjoyable video games
+- I love creating guides to help other people since when I was learning programming the learning experience for it was hard
 
 
 ## 📊 GitHub Stats 
